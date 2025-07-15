@@ -1,0 +1,595 @@
+ano;UF;tipo;area colheita;area colhida;Q produzida;rendimento medio;valor produção
+2023;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2023;Rondônia;Café (em grão) Canephora;61917;61892;224669;3630;2308114
+2023;Acre;Café (em grão) Arábica;0;0;0;0;0
+2023;Acre;Café (em grão) Canephora;993;993;2858;2878;28093
+2023;Amazonas;Café (em grão) Arábica;0;0;0;0;0
+2023;Amazonas;Café (em grão) Canephora;330;329;405;1231;2949
+2023;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2023;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2023;Pará;Café (em grão) Arábica;0;0;0;0;0
+2023;Pará;Café (em grão) Canephora;203;203;179;882;861
+2023;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2023;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2023;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2023;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2023;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2023;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2023;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2023;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2023;Ceará;Café (em grão) Arábica;1284;1284;481;375;7373
+2023;Ceará;Café (em grão) Canephora;28;28;13;464;126
+2023;Rio Grande do Norte;Café (em grão) Arábica;3;3;4;1333;27
+2023;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2023;Paraíba;Café (em grão) Arábica;20;20;24;1200;228
+2023;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2023;Pernambuco;Café (em grão) Arábica;1013;1000;267;267;4343
+2023;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2023;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2023;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2023;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2023;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2023;Bahia;Café (em grão) Arábica;78913;78913;94786;1201;902359
+2023;Bahia;Café (em grão) Canephora;43590;43590;137711;3159;1480846
+2023;Minas Gerais;Café (em grão) Arábica;1061280;1061280;1714053;1615;23947804
+2023;Minas Gerais;Café (em grão) Canephora;9078;9078;21355;2352;207918
+2023;Espírito Santo;Café (em grão) Arábica;136853;136853;169873;1241;2273844
+2023;Espírito Santo;Café (em grão) Canephora;278171;278136;641544;2307;7095628
+2023;Rio de Janeiro;Café (em grão) Arábica;11113;11113;20120;1810;263596
+2023;Rio de Janeiro;Café (em grão) Canephora;12;12;26;2167;335
+2023;São Paulo;Café (em grão) Arábica;191898;190585;307221;1612;4568060
+2023;São Paulo;Café (em grão) Canephora;87;87;132;1517;
+2023;Paraná;Café (em grão) Arábica;26573;26573;41840;1575;613420
+2023;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2023;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2023;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2023;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2023;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2023;Mato Grosso;Café (em grão) Arábica;21;21;38;1810;456
+2023;Mato Grosso;Café (em grão) Canephora;12302;12122;11509;949;117564
+2023;Mato Grosso do Sul;Café (em grão) Arábica;168;168;292;1738;3908
+2023;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2023;Goiás;Café (em grão) Arábica;6196;6196;14934;2410;187410
+2023;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2023;Distrito Federal - Brasil;Café (em grão) Arábica;410;410;933;2276;14772
+2023;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2022;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2022;Rondônia;Café (em grão) Canephora;57475;57445;201574;3509;2237381
+2022;Acre;Café (em grão) Arábica;0;0;0;0;0
+2022;Acre;Café (em grão) Canephora;1062;999;2570;2573;27682
+2022;Amazonas;Café (em grão) Arábica;30;30;43;1433;150
+2022;Amazonas;Café (em grão) Canephora;290;283;420;1484;2556
+2022;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2022;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2022;Pará;Café (em grão) Arábica;0;0;0;0;0
+2022;Pará;Café (em grão) Canephora;187;187;158;845;550
+2022;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2022;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2022;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2022;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2022;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2022;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2022;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2022;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2022;Ceará;Café (em grão) Arábica;1274;1274;437;343;8243
+2022;Ceará;Café (em grão) Canephora;28;28;11;393;144
+2022;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2022;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2022;Paraíba;Café (em grão) Arábica;20;20;24;1200;192
+2022;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2022;Pernambuco;Café (em grão) Arábica;1009;1001;596;595;10732
+2022;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2022;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2022;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2022;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2022;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2022;Bahia;Café (em grão) Arábica;74488;74488;94454;1268;868458
+2022;Bahia;Café (em grão) Canephora;41958;41958;145656;3471;1653313
+2022;Minas Gerais;Café (em grão) Arábica;1012763;1012763;1373871;1357;28256882
+2022;Minas Gerais;Café (em grão) Canephora;9936;9936;23399;2355;268211
+2022;Espírito Santo;Café (em grão) Arábica;134902;134902;226489;1679;3961624
+2022;Espírito Santo;Café (em grão) Canephora;273779;273744;724334;2646;8373330
+2022;Rio de Janeiro;Café (em grão) Arábica;11012;11012;19308;1753;346573
+2022;Rio de Janeiro;Café (em grão) Canephora;9;9;14;1556;219
+2022;São Paulo;Café (em grão) Arábica;199296;197329;293251;1486;4694620
+2022;São Paulo;Café (em grão) Canephora;86;85;126;1482;787
+2022;Paraná;Café (em grão) Arábica;30773;30713;44867;1461;865140
+2022;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2022;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2022;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2022;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2022;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2022;Mato Grosso;Café (em grão) Arábica;26;26;32;1231;506
+2022;Mato Grosso;Café (em grão) Canephora;11799;11799;9316;790;91109
+2022;Mato Grosso do Sul;Café (em grão) Arábica;176;172;64;372;1438
+2022;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2022;Goiás;Café (em grão) Arábica;6771;6771;16957;2504;242270
+2022;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2022;Distrito Federal - Brasil;Café (em grão) Arábica;418;418;1205;2883;19682
+2022;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2021;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2021;Rondônia;Café (em grão) Canephora;60934;60934;162482;2667;1133424
+2021;Acre;Café (em grão) Arábica;0;0;0;0;0
+2021;Acre;Café (em grão) Canephora;1055;1017;2392;2352;14585
+2021;Amazonas;Café (em grão) Arábica;38;27;36;1333;219
+2021;Amazonas;Café (em grão) Canephora;219;219;320;1461;983
+2021;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2021;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2021;Pará;Café (em grão) Arábica;0;0;0;0;0
+2021;Pará;Café (em grão) Canephora;199;199;189;950;480
+2021;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2021;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2021;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2021;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2021;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2021;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2021;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2021;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2021;Ceará;Café (em grão) Arábica;1297;1297;442;341;2635
+2021;Ceará;Café (em grão) Canephora;110;110;41;373;250
+2021;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2021;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2021;Paraíba;Café (em grão) Arábica;15;15;18;1200;140
+2021;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2021;Pernambuco;Café (em grão) Arábica;990;985;223;226;2827
+2021;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2021;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2021;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2021;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2021;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2021;Bahia;Café (em grão) Arábica;73711;73611;75752;1029;1023888
+2021;Bahia;Café (em grão) Canephora;40676;40676;134344;3303;1240362
+2021;Minas Gerais;Café (em grão) Arábica;994272;993774;1343980;1352;18496440
+2021;Minas Gerais;Café (em grão) Canephora;8515;8515;15848;1861;126978
+2021;Espírito Santo;Café (em grão) Arábica;124599;124599;155538;1248;1947226
+2021;Espírito Santo;Café (em grão) Canephora;264427;264407;684166;2588;5414587
+2021;Rio de Janeiro;Café (em grão) Arábica;10721;10666;13229;1240;147685
+2021;Rio de Janeiro;Café (em grão) Canephora;5;5;5;1000;40
+2021;São Paulo;Café (em grão) Arábica;199742;199595;318395;1595;4301147
+2021;São Paulo;Café (em grão) Canephora;68;68;83;1221;622
+2021;Paraná;Café (em grão) Arábica;32877;32713;53606;1639;721963
+2021;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2021;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2021;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2021;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2021;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2021;Mato Grosso;Café (em grão) Arábica;26;26;32;1231;329
+2021;Mato Grosso;Café (em grão) Canephora;11646;11596;6281;542;61042
+2021;Mato Grosso do Sul;Café (em grão) Arábica;247;243;228;938;2918
+2021;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2021;Goiás;Café (em grão) Arábica;6801;6801;17018;2502;170471
+2021;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2021;Distrito Federal - Brasil;Café (em grão) Arábica;410;410;933;2276;18660
+2021;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2020;Rondônia;Café (em grão) Canephora;72189;63751;144439;2266;644191
+2020;Acre;Café (em grão) Canephora;1047;1003;2141;2135;9964
+2020;Amazonas;Café (em grão) Canephora;227;227;334;1471;1005
+2020;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2020;Pará;Café (em grão) Canephora;203;203;196;966;338
+2020;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2020;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2020;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2020;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2020;Ceará;Café (em grão) Canephora;112;112;50;446;304
+2020;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2020;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2020;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2020;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2020;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2020;Bahia;Café (em grão) Canephora;40840;40840;126087;3087;699934
+2020;Minas Gerais;Café (em grão) Canephora;9733;9733;20322;2088;105568
+2020;Espírito Santo;Café (em grão) Canephora;261982;261982;568963;2172;3204507
+2020;Rio de Janeiro;Café (em grão) Canephora;5;5;6;1200;30
+2020;São Paulo;Café (em grão) Canephora;47;47;84;1787;390
+2020;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2020;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2020;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2020;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2020;Mato Grosso;Café (em grão) Canephora;11697;11697;7935;678;35528
+2020;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2020;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2020;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2020;Acre;Café (em grão) Arábica;0;0;0;0;0
+2020;Amazonas;Café (em grão) Arábica;28;27;33;1222;117
+2020;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2020;Pará;Café (em grão) Arábica;0;0;0;0;0
+2020;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2020;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2020;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2020;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2020;Ceará;Café (em grão) Arábica;1320;1320;463;351;2925
+2020;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2020;Paraíba;Café (em grão) Arábica;12;12;16;1333;109
+2020;Pernambuco;Café (em grão) Arábica;1258;758;301;397;1962
+2020;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2020;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2020;Bahia;Café (em grão) Arábica;78709;78709;118172;1501;977122
+2020;Minas Gerais;Café (em grão) Arábica;1045178;1045165;2044367;1956;16511154
+2020;Espírito Santo;Café (em grão) Arábica;125044;125044;227211;1817;1455993
+2020;Rio de Janeiro;Café (em grão) Arábica;12355;12355;20562;1664;130397
+2020;São Paulo;Café (em grão) Arábica;200321;200302;344610;1720;2901429
+2020;Paraná;Café (em grão) Arábica;36864;36864;60347;1637;481298
+2020;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2020;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2020;Mato Grosso do Sul;Café (em grão) Arábica;258;258;181;702;1374
+2020;Mato Grosso;Café (em grão) Arábica;117;117;211;1803;1268
+2020;Goiás;Café (em grão) Arábica;7598;7488;18032;2408;109767
+2020;Distrito Federal - Brasil;Café (em grão) Arábica;410;410;656;1600;7544
+2019;Rondônia;Café (em grão) Canephora;61800;61800;137180;2220;577248
+2019;Acre;Café (em grão) Canephora;1201;1153;2057;1784;8799
+2019;Amazonas;Café (em grão) Canephora;196;196;294;1500;840
+2019;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2019;Pará;Café (em grão) Canephora;271;271;246;908;459
+2019;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2019;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2019;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2019;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2019;Ceará;Café (em grão) Canephora;127;127;52;409;303
+2019;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2019;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2019;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2019;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2019;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2019;Bahia;Café (em grão) Canephora;44392;44392;108493;2444;507972
+2019;Minas Gerais;Café (em grão) Canephora;9041;9041;17675;1955;80492
+2019;Espírito Santo;Café (em grão) Canephora;257939;257939;640287;2482;2877998
+2019;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2019;São Paulo;Café (em grão) Canephora;244;243;311;1280;1423
+2019;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2019;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2019;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2019;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2019;Mato Grosso;Café (em grão) Canephora;12768;12755;9419;738;39010
+2019;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2019;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2019;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2019;Acre;Café (em grão) Arábica;0;0;0;0;0
+2019;Amazonas;Café (em grão) Arábica;25;23;31;1348;114
+2019;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2019;Pará;Café (em grão) Arábica;0;0;0;0;0
+2019;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2019;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2019;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2019;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2019;Ceará;Café (em grão) Arábica;1320;1320;488;370;3408
+2019;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2019;Paraíba;Café (em grão) Arábica;8;8;10;1250;50
+2019;Pernambuco;Café (em grão) Arábica;1423;483;115;238;756
+2019;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2019;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2019;Bahia;Café (em grão) Arábica;72478;72278;71759;993;453124
+2019;Minas Gerais;Café (em grão) Arábica;981773;981773;1477975;1505;9738669
+2019;Espírito Santo;Café (em grão) Arábica;123074;123074;151958;1235;795183
+2019;Rio de Janeiro;Café (em grão) Arábica;12374;12374;18653;1507;101311
+2019;São Paulo;Café (em grão) Arábica;199474;199245;290089;1456;1953864
+2019;Paraná;Café (em grão) Arábica;38002;37803;63356;1676;378625
+2019;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2019;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2019;Mato Grosso do Sul;Café (em grão) Arábica;261;261;294;1126;1990
+2019;Mato Grosso;Café (em grão) Arábica;130;130;105;808;618
+2019;Goiás;Café (em grão) Arábica;8184;8184;20178;2466;124675
+2019;Distrito Federal - Brasil;Café (em grão) Arábica;410;410;720;1756;6840
+2018;Rondônia;Café (em grão) Canephora;64850;64850;136251;2101;659000
+2018;Acre;Café (em grão) Canephora;1195;1146;1969;1718;8726
+2018;Amazonas;Café (em grão) Canephora;234;224;318;1420;811
+2018;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2018;Pará;Café (em grão) Canephora;324;321;282;879;663
+2018;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2018;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2018;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2018;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2018;Ceará;Café (em grão) Canephora;127;127;41;323;184
+2018;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2018;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2018;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2018;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2018;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2018;Bahia;Café (em grão) Canephora;46965;46965;138575;2951;704565
+2018;Minas Gerais;Café (em grão) Canephora;9364;9364;15692;1676;83725
+2018;Espírito Santo;Café (em grão) Canephora;256252;256252;589924;2302;3056610
+2018;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2018;São Paulo;Café (em grão) Canephora;30;30;56;1867;282
+2018;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2018;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2018;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2018;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2018;Mato Grosso;Café (em grão) Canephora;15395;15395;6817;443;29823
+2018;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2018;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2018;Rondônia;Café (em grão) Arábica;0;0;0;1967;0
+2018;Acre;Café (em grão) Arábica;0;0;0;1709;0
+2018;Amazonas;Café (em grão) Arábica;24;22;29;1398;117
+2018;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2018;Pará;Café (em grão) Arábica;0;0;0;835;0
+2018;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2018;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2018;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2018;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2018;Ceará;Café (em grão) Arábica;1657;1657;628;197;3347
+2018;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2018;Paraíba;Café (em grão) Arábica;0;0;0;0;0
+2018;Pernambuco;Café (em grão) Arábica;2159;2079;676;0;3940
+2018;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2018;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2018;Bahia;Café (em grão) Arábica;78583;76048;110030;2120;676976
+2018;Minas Gerais;Café (em grão) Arábica;1005415;1005185;1881219;1741;13429212
+2018;Espírito Santo;Café (em grão) Arábica;125605;125605;221457;1455;1335413
+2018;Rio de Janeiro;Café (em grão) Arábica;12197;12197;17825;0;110089
+2018;São Paulo;Café (em grão) Arábica;198725;198707;342814;1680;1973887
+2018;Paraná;Café (em grão) Arábica;39017;39009;65252;0;436788
+2018;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2018;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2018;Mato Grosso do Sul;Café (em grão) Arábica;253;253;221;0;1279
+2018;Mato Grosso;Café (em grão) Arábica;145;145;146;425;746
+2018;Goiás;Café (em grão) Arábica;8144;8040;21091;0;101040
+2018;Distrito Federal - Brasil;Café (em grão) Arábica;518;345;552;0;3588
+2017;Rondônia;Café (em grão) Canephora;71635;71605;140836;1967;812601
+2017;Acre;Café (em grão) Canephora;1648;1538;2629;1709;10817
+2017;Amazonas;Café (em grão) Canephora;362;344;481;1398;1312
+2017;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2017;Pará;Café (em grão) Canephora;460;460;384;835;1204
+2017;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2017;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2017;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2017;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2017;Ceará;Café (em grão) Canephora;127;127;25;197;116
+2017;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2017;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2017;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2017;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2017;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2017;Bahia;Café (em grão) Canephora;47218;47218;100105;2120;616638
+2017;Minas Gerais;Café (em grão) Canephora;10022;10022;17449;1741;113334
+2017;Espírito Santo;Café (em grão) Canephora;256884;256884;373711;1455;2403299
+2017;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2017;São Paulo;Café (em grão) Canephora;25;25;42;1680;221
+2017;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2017;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2017;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2017;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2017;Mato Grosso;Café (em grão) Canephora;15693;15693;6675;425;38236
+2017;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2017;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2017;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2017;Acre;Café (em grão) Arábica;0;0;0;0;0
+2017;Amazonas;Café (em grão) Arábica;25;24;26;1083;103
+2017;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2017;Pará;Café (em grão) Arábica;0;0;0;0;0
+2017;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2017;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2017;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2017;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2017;Ceará;Café (em grão) Arábica;2764;2762;665;241;4325
+2017;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2017;Paraíba;Café (em grão) Arábica;0;0;0;0;0
+2017;Pernambuco;Café (em grão) Arábica;2236;2236;655;293;3480
+2017;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2017;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2017;Bahia;Café (em grão) Arábica;79489;76592;60543;790;417353
+2017;Minas Gerais;Café (em grão) Arábica;915234;915086;1437330;1571;10624611
+2017;Espírito Santo;Café (em grão) Arábica;149211;149211;178689;1198;1179067
+2017;Rio de Janeiro;Café (em grão) Arábica;12216;12216;17265;1413;78044
+2017;São Paulo;Café (em grão) Arábica;193539;193539;262763;1358;1686885
+2017;Paraná;Café (em grão) Arábica;40168;40127;67216;1675;475417
+2017;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2017;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2017;Mato Grosso do Sul;Café (em grão) Arábica;473;470;464;987;2638
+2017;Mato Grosso;Café (em grão) Arábica;63;63;101;1603;724
+2017;Goiás;Café (em grão) Arábica;5647;5647;14622;2589;62404
+2017;Distrito Federal - Brasil;Café (em grão) Arábica;528;528;968;1833;7179
+2016;Rondônia;Café (em grão) Canephora;87437;79317;90331;1139;457826
+2016;Acre;Café (em grão) Canephora;1475;1475;2169;1471;8683
+2016;Amazonas;Café (em grão) Canephora;389;366;532;1454;1558
+2016;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2016;Pará;Café (em grão) Canephora;456;456;391;857;1241
+2016;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2016;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2016;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2016;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2016;Ceará;Café (em grão) Canephora;127;127;26;205;118
+2016;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2016;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2016;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2016;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2016;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2016;Bahia;Café (em grão) Canephora;44303;44303;55289;1248;342907
+2016;Minas Gerais;Café (em grão) Canephora;12825;12825;17968;1401;108754
+2016;Espírito Santo;Café (em grão) Canephora;275919;274419;304008;1108;1890452
+2016;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2016;São Paulo;Café (em grão) Canephora;31;31;24;774;84
+2016;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2016;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2016;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2016;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2016;Mato Grosso;Café (em grão) Canephora;16210;16210;5690;351;31624
+2016;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2016;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2016;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2016;Acre;Café (em grão) Arábica;0;0;0;0;0
+2016;Amazonas;Café (em grão) Arábica;17;17;23;1353;96
+2016;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2016;Pará;Café (em grão) Arábica;0;0;0;0;0
+2016;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2016;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2016;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2016;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2016;Ceará;Café (em grão) Arábica;3266;3264;747;229;4742
+2016;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2016;Paraíba;Café (em grão) Arábica;0;0;0;0;0
+2016;Pernambuco;Café (em grão) Arábica;2560;900;449;499;2258
+2016;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2016;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2016;Bahia;Café (em grão) Arábica;121784;121642;79535;654;582923
+2016;Minas Gerais;Café (em grão) Arábica;1028716;1028715;1816203;1766;13911353
+2016;Espírito Santo;Café (em grão) Arábica;149166;148866;211359;1420;1431220
+2016;Rio de Janeiro;Café (em grão) Arábica;12629;12629;17843;1413;85469
+2016;São Paulo;Café (em grão) Arábica;199813;199747;340252;1703;2008867
+2016;Paraná;Café (em grão) Arábica;43388;43326;61871;1428;412940
+2016;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2016;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2016;Mato Grosso do Sul;Café (em grão) Arábica;496;490;445;908;2712
+2016;Mato Grosso;Café (em grão) Arábica;83;83;83;1000;582
+2016;Goiás;Café (em grão) Arábica;6996;6922;17200;2485;96261
+2016;Distrito Federal - Brasil;Café (em grão) Arábica;474;474;1164;2456;9433
+2015;Rondônia;Café (em grão) Canephora;79975;79760;84734;1062;288547
+2015;Acre;Café (em grão) Canephora;1411;1411;2229;1580;4691
+2015;Amazonas;Café (em grão) Canephora;1378;1343;1972;1468;7204
+2015;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2015;Pará;Café (em grão) Canephora;1243;1243;993;799;3077
+2015;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2015;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2015;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2015;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2015;Ceará;Café (em grão) Canephora;127;127;40;315;172
+2015;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2015;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2015;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2015;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2015;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2015;Bahia;Café (em grão) Canephora;44885;41652;84098;2019;385777
+2015;Minas Gerais;Café (em grão) Canephora;13375;13371;20363;1523;95371
+2015;Espírito Santo;Café (em grão) Canephora;290135;290135;450174;1552;2131298
+2015;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2015;São Paulo;Café (em grão) Canephora;30;30;28;933;93
+2015;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2015;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2015;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2015;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2015;Mato Grosso;Café (em grão) Canephora;20078;20078;7074;352;28073
+2015;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2015;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2015;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2015;Acre;Café (em grão) Arábica;0;0;0;0;0
+2015;Amazonas;Café (em grão) Arábica;49;34;39;1147;120
+2015;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2015;Pará;Café (em grão) Arábica;0;0;0;0;0
+2015;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2015;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2015;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2015;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2015;Ceará;Café (em grão) Arábica;4198;4198;1673;399;10401
+2015;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2015;Paraíba;Café (em grão) Arábica;0;0;0;0;0
+2015;Pernambuco;Café (em grão) Arábica;2535;2367;893;377;2431
+2015;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2015;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2015;Bahia;Café (em grão) Arábica;122210;122180;125010;1023;701813
+2015;Minas Gerais;Café (em grão) Arábica;984217;980297;1325471;1352;9233193
+2015;Espírito Santo;Café (em grão) Arábica;153064;152525;168088;1102;877360
+2015;Rio de Janeiro;Café (em grão) Arábica;12341;12321;19107;1551;83200
+2015;São Paulo;Café (em grão) Arábica;201540;201518;254348;1262;1429729
+2015;Paraná;Café (em grão) Arábica;44747;44551;80304;1803;498465
+2015;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2015;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2015;Mato Grosso do Sul;Café (em grão) Arábica;1173;1146;1333;1163;7813
+2015;Mato Grosso;Café (em grão) Arábica;111;111;101;910;561
+2015;Goiás;Café (em grão) Arábica;6747;6747;18123;2686;78014
+2015;Distrito Federal - Brasil;Café (em grão) Arábica;703;569;1309;2301;8300
+2014;Rondônia;Café (em grão) Canephora;86189;85944;83647;973;284896
+2014;Acre;Café (em grão) Canephora;1335;1335;1949;1460;4559
+2014;Amazonas;Café (em grão) Canephora;336;280;379;1354;993
+2014;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2014;Pará;Café (em grão) Canephora;4377;4377;4114;940;13649
+2014;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2014;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2014;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2014;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2014;Ceará;Café (em grão) Canephora;239;238;40;168;176
+2014;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2014;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2014;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2014;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2014;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2014;Bahia;Café (em grão) Canephora;36270;36270;77814;2145;302372
+2014;Minas Gerais;Café (em grão) Canephora;13469;13469;17892;1328;67669
+2014;Espírito Santo;Café (em grão) Canephora;289824;289824;596178;2057;2253175
+2014;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2014;São Paulo;Café (em grão) Canephora;25;25;52;2080;192
+2014;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2014;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2014;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2014;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2014;Mato Grosso;Café (em grão) Canephora;19975;19975;9833;492;30190
+2014;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2014;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2014;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2014;Acre;Café (em grão) Arábica;38;38;51;1342;121
+2014;Amazonas;Café (em grão) Arábica;35;35;50;1429;110
+2014;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2014;Pará;Café (em grão) Arábica;0;0;0;0;0
+2014;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2014;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2014;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2014;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2014;Ceará;Café (em grão) Arábica;5897;5895;1591;270;9844
+2014;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2014;Paraíba;Café (em grão) Arábica;0;0;0;0;0
+2014;Pernambuco;Café (em grão) Arábica;2885;2690;741;275;1831
+2014;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2014;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2014;Bahia;Café (em grão) Arábica;125666;124736;123901;993;617084
+2014;Minas Gerais;Café (em grão) Arábica;995871;995621;1346517;1352;9301169
+2014;Espírito Santo;Café (em grão) Arábica;156266;156266;178332;1141;837654
+2014;Rio de Janeiro;Café (em grão) Arábica;12775;12725;17481;1374;66735
+2014;São Paulo;Café (em grão) Arábica;204935;204848;289205;1412;1598801
+2014;Paraná;Café (em grão) Arábica;38333;35825;36671;1024;213147
+2014;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2014;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2014;Mato Grosso do Sul;Café (em grão) Arábica;1108;1108;1534;1384;7909
+2014;Mato Grosso;Café (em grão) Arábica;135;135;119;881;557
+2014;Goiás;Café (em grão) Arábica;5599;5599;14670;2620;61120
+2014;Distrito Federal - Brasil;Café (em grão) Arábica;569;569;1309;2301;9907
+2013;Rondônia;Café (em grão) Canephora;98648;90864;70517;776;239600
+2013;Acre;Café (em grão) Canephora;1223;1223;1369;1119;4570
+2013;Amazonas;Café (em grão) Canephora;1640;1541;1993;1293;6330
+2013;Roraima;Café (em grão) Canephora;0;0;0;0;0
+2013;Pará;Café (em grão) Canephora;6377;6377;5930;930;19827
+2013;Amapá;Café (em grão) Canephora;0;0;0;0;0
+2013;Tocantins;Café (em grão) Canephora;0;0;0;0;0
+2013;Maranhão;Café (em grão) Canephora;0;0;0;0;0
+2013;Piauí;Café (em grão) Canephora;0;0;0;0;0
+2013;Ceará;Café (em grão) Canephora;410;395;47;119;215
+2013;Rio Grande do Norte;Café (em grão) Canephora;0;0;0;0;0
+2013;Paraíba;Café (em grão) Canephora;0;0;0;0;0
+2013;Pernambuco;Café (em grão) Canephora;0;0;0;0;0
+2013;Alagoas;Café (em grão) Canephora;0;0;0;0;0
+2013;Sergipe;Café (em grão) Canephora;0;0;0;0;0
+2013;Bahia;Café (em grão) Canephora;35537;35537;47249;1330;176687
+2013;Minas Gerais;Café (em grão) Canephora;13086;13086;17377;1328;65018
+2013;Espírito Santo;Café (em grão) Canephora;294753;294753;489506;1661;1893099
+2013;Rio de Janeiro;Café (em grão) Canephora;0;0;0;0;0
+2013;São Paulo;Café (em grão) Canephora;10;10;15;1500;65
+2013;Paraná;Café (em grão) Canephora;0;0;0;0;0
+2013;Santa Catarina - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2013;Rio Grande do Sul;Café (em grão) Canephora;0;0;0;0;0
+2013;Mato Grosso do Sul;Café (em grão) Canephora;0;0;0;0;0
+2013;Mato Grosso;Café (em grão) Canephora;20805;20805;10192;490;37911
+2013;Goiás;Café (em grão) Canephora;0;0;0;0;0
+2013;Distrito Federal - Brasil;Café (em grão) Canephora;0;0;0;0;0
+2013;Rondônia;Café (em grão) Arábica;0;0;0;0;0
+2013;Acre;Café (em grão) Arábica;38;38;42;1105;145
+2013;Amazonas;Café (em grão) Arábica;0;0;0;0;0
+2013;Roraima;Café (em grão) Arábica;0;0;0;0;0
+2013;Pará;Café (em grão) Arábica;0;0;0;0;0
+2013;Amapá;Café (em grão) Arábica;0;0;0;0;0
+2013;Tocantins;Café (em grão) Arábica;0;0;0;0;0
+2013;Maranhão;Café (em grão) Arábica;0;0;0;0;0
+2013;Piauí;Café (em grão) Arábica;0;0;0;0;0
+2013;Ceará;Café (em grão) Arábica;7071;7063;651;92;3321
+2013;Rio Grande do Norte;Café (em grão) Arábica;0;0;0;0;0
+2013;Paraíba;Café (em grão) Arábica;0;0;0;0;0
+2013;Pernambuco;Café (em grão) Arábica;3064;3060;987;323;3349
+2013;Alagoas;Café (em grão) Arábica;0;0;0;0;0
+2013;Sergipe;Café (em grão) Arábica;0;0;0;0;0
+2013;Bahia;Café (em grão) Arábica;124608;124573;110828;890;518774
+2013;Minas Gerais;Café (em grão) Arábica;1025612;1025583;1584487;1545;7230434
+2013;Espírito Santo;Café (em grão) Arábica;168185;168185;212943;1266;840909
+2013;Rio de Janeiro;Café (em grão) Arábica;13280;13280;16864;1270;68664
+2013;São Paulo;Café (em grão) Arábica;206961;206325;273913;1328;1208075
+2013;Paraná;Café (em grão) Arábica;64964;64859;100298;1546;425386
+2013;Santa Catarina - Brasil;Café (em grão) Arábica;0;0;0;0;0
+2013;Rio Grande do Sul;Café (em grão) Arábica;0;0;0;0;0
+2013;Mato Grosso do Sul;Café (em grão) Arábica;1229;1229;1766;1437;8010
+2013;Mato Grosso;Café (em grão) Arábica;85;85;96;1129;482
+2013;Goiás;Café (em grão) Arábica;6130;6110;16285;2665;64137
+2013;Distrito Federal - Brasil;Café (em grão) Arábica;541;541;1183;2187;5324
